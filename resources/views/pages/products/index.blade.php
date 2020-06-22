@@ -6,11 +6,6 @@
 			<div class="col-12">
 				<div class="card">
 					<div class="card-body">
-						{{-- @if (session('status'))
-							<div class="alert alert-success col-md-4" role="alert">
-								{{ session('status') }}
-							</div>
-						@endif --}}
 						<h4 class="box-title">Daftar Barang</h4>
 					</div>
 					<div class="card-body--">
