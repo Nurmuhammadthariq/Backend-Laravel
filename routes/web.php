@@ -19,3 +19,5 @@ Auth::routes();
 
 Route::resource('products', 'ProductController');
 
+Route::resource('product-galleries', 'ProductGalleryController');
+
